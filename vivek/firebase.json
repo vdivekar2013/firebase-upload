@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "nitrohub",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
